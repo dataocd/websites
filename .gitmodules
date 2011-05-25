@@ -1,0 +1,9 @@
+[submodule "Listssite"]
+	path = Listssite
+	url = git@github.com:dataocd/Listssite.git
+[submodule "Dataocd"]
+	path = Dataocd
+	url = git@github.com:dataocd/Dataocd.git
+[submodule "BucketList"]
+	path = BucketList
+	url = git@github.com:dataocd/BucketList.git
